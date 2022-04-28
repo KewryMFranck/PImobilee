@@ -1,0 +1,7 @@
+{
+  "name": "PImobilee",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
